@@ -1,0 +1,16 @@
+Flask
+gunicorn
+itsdangerous
+Jinja2
+jsonify
+kiwisolver
+MarkupSafe
+matplotlib
+numpy
+pandas
+scikit-learn
+sklearn
+threadpoolctl
+Werkzeug
+
+
